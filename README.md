@@ -6,7 +6,7 @@ A lightweight, terminal-native CLI tool for advanced AI chat interfaces—powere
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Terminal-Native Workflow:** Stream responses with full Markdown rendering—including headings, tables, syntax-highlighted code blocks, and formatted lists—directly in your terminal.
 - **Dual-Backend Support:**
@@ -19,7 +19,7 @@ A lightweight, terminal-native CLI tool for advanced AI chat interfaces—powere
 
 ---
 
-## 🛡️ Security Guidelines & Best Practices
+##  Security Guidelines & Best Practices
 
 Because these scripts grant the AI access to a local shell, ambiguous prompts or incorrect AI outputs could lead to data modification or loss. Follow these guidelines for safe operation:
 
@@ -30,7 +30,7 @@ Because these scripts grant the AI access to a local shell, ambiguous prompts or
 
 ---
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - **Python 3.11+**
 - **Optional Dependencies:** `pygments` (`pip install pygments`) for rich code syntax highlighting.
@@ -40,7 +40,7 @@ Because these scripts grant the AI access to a local shell, ambiguous prompts or
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1. **Clone the repository:**
    ```bash
